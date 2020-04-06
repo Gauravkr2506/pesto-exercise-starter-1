@@ -2,10 +2,9 @@
 
 # Submission
 
-Game URL: _____
+Game URL: https://gauravkr2506.github.io/snake-game-react/
 
-Mockup URL: _____
-
+Mockup URL: https://balsamiq.cloud/invite/9gvmkoWtEMCUBAAAB0WFpm-mX-T1OK_IiQOev3-76la9
 ## How to do the question
 - Make a new branch `snake-game`.
 - `cd` into `snake-game-react` folder.

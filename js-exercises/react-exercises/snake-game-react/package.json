@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Gauravkr2506.github.io/pesto-exercise-starter-1/snake-game",
+  "homepage": "http://Gauravkr2506.github.io/pesto-exercise-starter-1",
   "name": "snake-game-react",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "react-sound": "^1.2.0"
   },
   "scripts": {
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
